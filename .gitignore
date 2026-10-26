@@ -1,0 +1,16 @@
+# Artefactos Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema y editores
+.DS_Store
+.idea/
+.vscode/
+.cursor/
+
+# Credenciales (nunca subir)
+.env
+.env.*
+*-key.json
+credentials*.json
