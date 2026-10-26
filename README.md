@@ -172,7 +172,7 @@ las 24 h sin decisión el borrador se marca con evidencia vencida y debe recalcu
 
 | Corrida | Integrante | Modalidad | Caso priorizado | Consumo de Luna | Comprobaciones |
 |---|---|---|---|---|---|
-| Contraste | Marián Prince Flores | `sin_api` | T0053/P060 | 0 llamadas | Reportadas por la integrante |
+| Contraste | Marián Prince Flores | `sin_api` | T0053/P060 | No aplica (simulación local) | Ejecución completa en `sin_api` |
 | Contraste | Manuel Alejandro Puga Mora | `luna_api` | T0046/P060 | 158 / 135 tokens | 9/9 |
 | **Entregada** | Oscar Alberto Ramírez Anaya | `luna_api` | T0053/P060 | 158 / 142 tokens | 9/9 |
 
