@@ -23,7 +23,7 @@ TITULOS = [
     "Registro 3 — caso adversarial y exclusión del portal", "Registro 4 — reintentos y silla vacía",
     "5.2 Propuesta de Luna: qué verificamos", "5.3 Lo que el simulador no comprueba",
     "Autoevaluación contra la rúbrica", "Apéndice A. Contribución del equipo", "Apéndice B. Declaración de uso de IA",
-    "Glosario", "Referencias",
+    "Glosario", "Referencias", "Comprobaciones finales del notebook",
 ]
 
 

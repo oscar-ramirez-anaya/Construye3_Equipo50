@@ -176,7 +176,7 @@ las 24 h sin decisión el borrador se marca con evidencia vencida y debe recalcu
 | Contraste | Manuel Alejandro Puga Mora | `luna_api` | T0046/P060 | 158 / 135 tokens | 9/9 |
 | **Entregada** | Oscar Alberto Ramírez Anaya | `luna_api` | T0053/P060 | 158 / 142 tokens | 9/9 |
 
-Los cuatro registros del PDF se copiaron literalmente de la salida del notebook de este repositorio:
+En el PDF, los cuatro registros y las comprobaciones finales se presentan como capturas de las celdas del notebook de este repositorio (código y salida), guardadas en `figuras/capturas/`:
 
 | Registro | Qué demuestra |
 |---|---|
@@ -220,7 +220,7 @@ modificar.
 
 ```
 .
-├── Construye3_Equipo50.pdf       # Entregable para Canvas (9 páginas; cuerpo de 3)
+├── Construye3_Equipo50.pdf       # Entregable para Canvas (11 páginas; cuerpo de 3)
 ├── Construye3_Equipo50.ipynb     # Notebook del equipo, ejecutado en luna_api con salidas
 ├── equipo_lib.py                 # Biblioteca común (sin cambios)
 ├── luna_adapter.py               # Adaptador de Aula Gateway (sin cambios)
@@ -228,7 +228,8 @@ modificar.
 ├── figuras/
 │   ├── 01_seleccion_compresion.png
 │   ├── 02_vigencia_por_fuente.png
-│   └── 03_empate_T0046_T0053.png
+│   ├── 03_empate_T0046_T0053.png
+│   └── capturas/                 # Celdas del notebook ejecutado usadas como evidencia en el PDF
 ├── scripts/
 │   └── generar_figuras.py        # Genera las figuras del README desde datos/
 ├── reporte/
